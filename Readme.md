@@ -1,0 +1,27 @@
+# My Link Tree
+
+A Page to Redirect to my social medias and Projects
+
+
+
+## Social Media
+
+- LinkedIn
+- Twitter
+- Instagram
+- Discord
+- YouTube
+
+## Projects
+
+- Chanakyha-Coder Website
+- Chan-the-Programmer Website
+- Studies-go Website
+- Code Chef Project
+- Internet Programming (SRM VAC Project)
+
+## Language Used for Building my-LinkTree
+
+- HTML5
+- CSS3
+- Bootstrap 
