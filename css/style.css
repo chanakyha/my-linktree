@@ -1,18 +1,41 @@
-/* ELEMENT GETTER */
-
-
 body {
-    background-image: url("../img/background.jpeg");
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    
+  font-family: "Baloo 2", cursive;
+  font-size: 10pt;
+  background-color: #333;
+  color: #fff;
+}
+h1 {
+  margin-top: 10px;
+  font-size: 2.5em;
+}
+h2 {
+  font-size: 1.75em;
+}
+.list-group-item {
+  font-size: 1.5em;
+}
+h3.list-group-item {
+  background-color: #f5f5f5;
+  font-weight: 300;
+  font-size: 1.25em;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 10px 15px 7px;
+}
+.list-group-item .icon-wrapper {
+  display: inline-block;
+  width: 35px;
+  margin-right: 5px;
+  display: inline-flex;
+  vertical-align: middle;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.list-group-item .icon-wrapper i {
+  font-size: 1.5em;
 }
 
-/* ID GETTER */
-
-/* CLASS GETTER */
-
-  
-
-  
+footer {
+    margin-top: 30px
+}
