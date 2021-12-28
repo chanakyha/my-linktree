@@ -11,6 +11,7 @@ A Page to Redirect to my social medias and Projects
 - Instagram
 - Discord
 - YouTube
+- Whatsapp
 
 ## Projects
 
