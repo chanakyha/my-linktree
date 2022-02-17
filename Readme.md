@@ -4,8 +4,6 @@ A Page to Redirect to my social medias and Projects
 
 Live Demo for this website: [My-LinkTree](https://chanakyha.github.io/my-linktree/)
 
-
-
 ## Social Media
 
 - LinkedIn
@@ -18,6 +16,8 @@ Live Demo for this website: [My-LinkTree](https://chanakyha.github.io/my-linktre
 ## Projects
 
 - Chanakyha-Coder Website
+- FlipZon (eCommerce Website)
+- BMI Calculator
 - Chan-the-Programmer Website
 - Studies-go Website
 - Code Chef Project
@@ -27,4 +27,4 @@ Live Demo for this website: [My-LinkTree](https://chanakyha.github.io/my-linktre
 
 - HTML5
 - CSS3
-- Bootstrap 
+- Bootstrap
