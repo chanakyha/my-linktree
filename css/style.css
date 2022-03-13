@@ -1,5 +1,5 @@
 body {
-  font-family: "Baloo 2", cursive;
+  font-family: "Baloo 2", cursive !important;
   font-size: 10pt;
   background-color: #333;
   color: #fff;
@@ -37,11 +37,32 @@ h3.list-group-item {
 }
 
 footer {
+  z-index: 1;
   margin-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+center {
+  width: 100%;
 }
 
 footer > span {
   position: fixed;
   bottom: 0;
   padding-left: 0.5em;
+  background-color: whitesmoke;
+  width: 100%;
+  color: black;
+  font-weight: bold;
+}
+
+footer > span > a {
+  text-decoration: none;
+  color: black;
+}
+
+footer > span > a:hover {
+  color: blue;
 }
