@@ -15,6 +15,7 @@ Live Demo for this website: [My-LinkTree](https://chanakyha.github.io/my-linktre
 
 ## Projects
 
+- Wish Them (Birthdays Scheldular)
 - Chanakyha-Coder Website
 - FlipZon (eCommerce Website)
 - BMI Calculator
